@@ -1,0 +1,28 @@
+body {
+  margin: 0 auto;
+  width: 700px;
+}
+
+header {
+  position: relative;
+}
+
+.call-to-action {
+  padding: 10px 0px 0px 0px;
+  position: absolute;
+  right: 10px;
+}
+
+#contact {
+  padding: 20px;
+}
+
+#copyright {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
